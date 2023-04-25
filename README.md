@@ -12,3 +12,5 @@ This project uses ThreeJS, React Three Fiber, TailwindCSS, Framer Motion, and DA
 - Add custom colors and images.
 - Generate and use images through DALLE AI.
 - Download the resulting t-shirt model image.
+
+[Live Demo](https://meek-salamander-9200f0.netlify.app/)
